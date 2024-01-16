@@ -17,5 +17,5 @@ This program uses:
 
 ## Usage
 1. Assemble file: `as main.s -o main.o`
-2. Create executable `binary: ld main.o -o main`
+2. Create executable binary: `ld main.o -o main`
 3. Run file: `./main`
